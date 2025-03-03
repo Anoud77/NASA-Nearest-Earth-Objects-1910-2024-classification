@@ -101,4 +101,21 @@ You can install the required packages using pip:
 
 ```bash
 pip install -r requirements.txt
+```
+## Installation and Usage
+1. Clone the repository :
+   ```bash
+   git clone https://github.com/yourusername/ML-Model-Comparison.git
+   cd ML-Model-Comparison
+   ```
+2. Run the Jupyter Notebook:
+   ```bash
+    jupyter notebook
+   ```
+3. Execute the model comparison: Follow the instructions in the notebook to load the dataset, preprocess the data, and train the models.
+
+## Acknowledgments
+The dataset used in this project was obtained from the NASA Near-Earth Objects dataset. Special thanks to the contributors of the machine learning and data science community for their resources and tutorials.
+
+
 
